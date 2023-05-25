@@ -12,15 +12,24 @@ button {
   padding-top: 30px;
 }
 
+.wholeModal {
+  text-align: center;
+  justify-content: center;
+  display: inline-block;
+  position: fixed;
+}
+
 .back {
   background-color: rgba(0, 0, 0, 0.3);
-  display: none;
+  display: flex;
   z-index: 1;
   top: 0;
   left: 0;
   height: 100vh;
-  width: 100vh;
+  width: 230vh;
   position: fixed;
+  align-items: center;
+  justify-content: center;
 }
 
 .modal {
