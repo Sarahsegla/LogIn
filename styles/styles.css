@@ -15,8 +15,8 @@ button {
 .wholeModal {
   text-align: center;
   justify-content: center;
-  display: inline-block;
   position: fixed;
+  display: flex;
 }
 
 .back {
@@ -26,7 +26,7 @@ button {
   top: 0;
   left: 0;
   height: 100vh;
-  width: 230vh;
+  width: 220vh;
   position: fixed;
   align-items: center;
   justify-content: center;
@@ -38,4 +38,10 @@ button {
   display: block;
   z-index: 2;
   position: fixed;
+}
+
+@media (max-width: 432px) {
+  .back {
+    width: 50vh;
+  }
 }/*# sourceMappingURL=styles.css.map */
