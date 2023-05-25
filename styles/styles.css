@@ -63,6 +63,10 @@ button {
   justify-content: space-between;
 }
 
+a {
+  text-decoration: none;
+}
+
 @media (max-width: 432px) {
   .back {
     width: 50vh;
