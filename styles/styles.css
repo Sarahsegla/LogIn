@@ -1,6 +1,6 @@
 button {
   background-color: green;
-  border-radius: 3px;
+  border-radius: 5px;
   color: white;
   font-size: 50px;
   border: 0;
@@ -55,6 +55,7 @@ button {
   display: block;
   justify-content: space-between;
   background-color: blue;
+  font-weight: bold;
 }
 
 .scheme {
@@ -65,5 +66,12 @@ button {
 @media (max-width: 432px) {
   .back {
     width: 50vh;
+  }
+  .modal {
+    width: 300px;
+    height: 200px;
+  }
+  .scheme {
+    padding-left: 60px;
   }
 }/*# sourceMappingURL=styles.css.map */
