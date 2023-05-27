@@ -14,10 +14,11 @@ button {
 
 .wholeModal {
   display: none;
+  font-family: "Raleway", sans-serif;
 }
 
 .back {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.5);
   display: flex;
   z-index: 1;
   top: 0;
