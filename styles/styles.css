@@ -76,7 +76,7 @@ a {
 
 @media (max-width: 432px) {
   .back {
-    width: 55vh;
+    width: 50vh;
   }
   .modal {
     width: 300px;
@@ -84,5 +84,10 @@ a {
   }
   .scheme {
     padding-left: 60px;
+  }
+}
+@media (max-width: 375px) {
+  .back {
+    width: 60vh;
   }
 }/*# sourceMappingURL=styles.css.map */
