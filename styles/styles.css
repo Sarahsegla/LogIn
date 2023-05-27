@@ -53,6 +53,7 @@ button {
   padding-left: 10px;
   padding-right: 10px;
   text-align: left;
+  color: black;
 }
 
 #buttonAB {
@@ -72,10 +73,6 @@ button {
 
 a.schemeLink {
   text-decoration: none;
-}
-
-strong {
-  color: black;
 }
 
 @media (max-width: 432px) {

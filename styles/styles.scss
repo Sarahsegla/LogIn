@@ -60,6 +60,7 @@ button {
 .modalText {
     @include modalRepeat();
     text-align: left;
+    color: black
 }
 
 #buttonAB {
@@ -82,9 +83,7 @@ a.schemeLink {
     text-decoration: none;
 }
 
-strong {
-    color: black;
-}
+
 
 @media (max-width: 432px) {
     .back {
