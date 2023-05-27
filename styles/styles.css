@@ -75,7 +75,7 @@ a.schemeLink {
 }
 
 strong {
-  text-decoration: none;
+  color: black;
 }
 
 @media (max-width: 432px) {
