@@ -78,10 +78,13 @@ button {
 
 }
 
-a.schemeLink strong {
+a.schemeLink {
     text-decoration: none;
 }
 
+strong {
+    text-decoration: none;
+}
 
 @media (max-width: 432px) {
     .back {
