@@ -70,7 +70,7 @@ button {
   justify-content: space-between;
 }
 
-a.schemeLink {
+a.schemeLink strong {
   text-decoration: none;
 }
 
