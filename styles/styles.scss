@@ -9,7 +9,7 @@ button {
     background-color: green;
     border-radius: 5px;
     color: white;
-    font-size: 50px;
+    font-size: 40px;
     border: 0;
     text-transform: uppercase;
     
@@ -74,14 +74,13 @@ section {
 }
 .scheme {
     padding-left: 100px;
-    justify-content: space-between;
 
 }
 
 a.schemeLink {
     text-decoration: none;
 }
-
+// space between scheme buttons
 .divide {
     width: 10px;
     height: 10px;
