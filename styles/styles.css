@@ -12,7 +12,7 @@ button {
   padding-top: 30px;
 }
 
-.wholeModal {
+section {
   display: none;
   font-family: "Raleway", sans-serif;
 }
@@ -74,10 +74,15 @@ a.schemeLink {
   text-decoration: none;
 }
 
+.divide {
+  width: 10px;
+  height: 10px;
+}
+
 @media (max-width: 432px) {
   .modal {
     width: 300px;
-    height: 200px;
+    height: 220px;
   }
   .scheme {
     padding-left: 60px;
