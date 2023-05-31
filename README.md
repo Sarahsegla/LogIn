@@ -5,8 +5,8 @@ To create a responsive modal.
 
 
 ## Acceptance Criteria
-Modal first responsive.
-JavaScript to open modal.
+Modal first responsive.\
+JavaScript to open modal.\
 Works on Chrome, Firefox, Safari and Edge.
 
 
